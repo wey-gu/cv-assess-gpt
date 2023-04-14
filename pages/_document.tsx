@@ -6,7 +6,7 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="icon" href="/favicon.ico" />
-          <meta
+          {/* <meta
             name="description"
             content="Generate your next Twitter bio in seconds."
           />
@@ -29,7 +29,7 @@ class MyDocument extends Document {
           <meta
             name="twitter:image"
             content="https://twitterbio.com/og-image.png"
-          />
+          /> */}
         </Head>
         <body>
           <Main />
